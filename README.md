@@ -1,6 +1,6 @@
 # 📊 Final Project - Edit me!
 
-By: Student Name
+By: Erin Hearn
 
 ---
 
